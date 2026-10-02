@@ -23,7 +23,7 @@ Technologies
 
 Live Demo
 
-View the project
+View https://retajcs.github.io/Birthday-Card/
 
 What I Learned
 
